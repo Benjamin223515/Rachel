@@ -9,7 +9,23 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="classroom-catastrophe-api">Classroom Catastrophe API</h1>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#classroom-catastrophe-api">Classroom Catastrophe API</a>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#creating-a-task">Creating a task</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="classroom-catastrophe-api">Classroom Catastrophe API</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Hello EndlessStudios members. This GitHub repository contains our Unity project “ClassroomCatastrophe”, along with some useful documentation about how to design and develop tasks.</p>
 <h2 id="creating-a-task">Creating a task</h2>
@@ -136,7 +152,9 @@ Unity 2019.2.x — <a href="https://docs.unity3d.com/2019.2/Documentation/Manual
 </li>
 </ol>
 </section>
-</div>
+
+    </div>
+  </div>
 </body>
 
 </html>
